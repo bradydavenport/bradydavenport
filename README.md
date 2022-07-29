@@ -1,4 +1,6 @@
-### Hi there 👋
+# ![gitHub-banner](img/gitHub-banner.png)
+
+<h2 align="center">Welcome to my GitHub! 👋</h2>
 
 <!--
 **bradydavenport/bradydavenport** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
